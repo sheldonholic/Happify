@@ -27,19 +27,19 @@ let track_list = [
         name: "Love Story",
         artist: "Taylor Swift",
         image: "http://1.bp.blogspot.com/-Pc3iwiiMFxA/UClAgIun11I/AAAAAAAAB14/Wm_NXxunsNc/s1600/Taylor+Swift+-+Love+Story+HQ+video+3.png",
-        path: "./songs/Love Story - Taylor Swift.mp3",
+        path: "../songs/Love Story - Taylor Swift.mp3",
     },
     {
         name: "Night Owl",
         artist: "Broke For Free",
         image: "https://freemusicarchive.org/image?file=images%2Ftracks%2FTrack_-_20110118110252018&width=290&height=290&type=track",
-        path: "./songs/Night Owl.mp3"
+        path: "../songs/Night Owl.mp3"
     },
     {
         name: "Music",
         artist: "Maarten Schellekens",
         image: "https://freemusicarchive.org/image?file=track_image%2FXbqco3pevCSMNSEPXRkueHVLEZuJ4aXVbjpzMJwh.png&width=290&height=290&type=track",
-        path: "./songs/short-tone.mp3"
+        path: "../songs/short-tone.mp3"
     },
     
 ];
