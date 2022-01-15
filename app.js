@@ -27,7 +27,7 @@ let track_list = [
         name: "Love Story",
         artist: "Taylor Swift",
         image: "http://1.bp.blogspot.com/-Pc3iwiiMFxA/UClAgIun11I/AAAAAAAAB14/Wm_NXxunsNc/s1600/Taylor+Swift+-+Love+Story+HQ+video+3.png",
-        path: "../songs/Love Story - Taylor Swift.mp3",
+        path: "./songs/Love Story - Taylor Swift.mp3",
     },
     {
         name: "Night Owl",
@@ -39,7 +39,7 @@ let track_list = [
         name: "Little Match Girl",
         artist: "Maarten Schellekens",
         image: "https://freemusicarchive.org/image?file=track_image%2FXbqco3pevCSMNSEPXRkueHVLEZuJ4aXVbjpzMJwh.png&width=290&height=290&type=track",
-        path: "../songs/Maarten Schellekens - The Little Match Girl.mp3"
+        path: "./songs/Maarten Schellekens - The Little Match Girl.mp3"
     },
     
 ];
